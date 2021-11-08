@@ -29,3 +29,9 @@
   .header-style-1 .header-top-ptb-1 .BuyandSell-dropdown a {
     color: #253D4E;
   }
+  @media (min-width:992px) {
+    .header-bottom .header-wrap{
+        justify-content: center;
+    }
+
+}
