@@ -114,7 +114,19 @@
     border-bottom-color: #BCE3C9 ;
     isolation:isolate
   }
+  /* cart dropdown  */
+.cart-dropdown-wrap img{
+  max-width: 50px;
+  max-height: 50px;
+
 }
+
+.cart-dropdown-wrap ul li .shopping-cart-img{
+  margin-right: 0px;
+}
+}
+/* end 992px screen */
+
 /* recent-view */
 .menu> li.nav-menu-right .recent-view{
   right: 0;
