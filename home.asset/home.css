@@ -428,11 +428,16 @@ line-height: 0px;
   .mega-menu .container{
     max-width: 1140px;
   }
-}
+  
 @media (min-width: 1200px){
 .mega-menu .container {
     max-width: 1200px;
     justify-content: center;
+}
+.banner-img img {
+  border-radius: 10px;
+  height: 218px;
+  min-width: 350px;
 }
 }
 
