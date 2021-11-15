@@ -438,6 +438,15 @@ line-height: 0px;
   border-radius: 10px;
   height: 218px;
   min-width: 350px;
+  border: 1px solid #c4c4c4;
+}
+a.btn1{
+  margin-top: 150px;
+  margin-left: 50px ;
+}
+a.btn2{
+  margin-top: 150px;
+  margin-left: 50px ;
 }
 }
 
@@ -568,5 +577,5 @@ max-height: 460px;
 }
 
 .slider-content .mb-65{
-margin-left:25px;
+  margin-left: 25px;
 }
