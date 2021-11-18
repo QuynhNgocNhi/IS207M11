@@ -195,7 +195,7 @@
   .searchTerm {
     width: 100%;
     border: 3px solid var(--primary-color);
-    border-right: none;
+    
     padding: 5px;
     height: 36px;
     border-radius: 5px 0 0 5px;
