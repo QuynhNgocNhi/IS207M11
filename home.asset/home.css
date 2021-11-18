@@ -484,12 +484,17 @@ a.btn2{
 
 
 /* footer */
+footer .container{
+  background-color: #ffffff;
+  border: 1px solid #c4c4c4;
+}
 .footer-mid #logo-footer img{
   
   width: 100px;
   min-width: 100px;
   max-height: 133px;
   margin-left: 40px;
+
 }
 /* category */
 .main{
